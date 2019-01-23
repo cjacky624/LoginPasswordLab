@@ -1,0 +1,6 @@
+c:\users\jc\documents\visual studio 2017\Projects\1-22-19LoginLab\1-22-19LoginLab\bin\Debug\1-22-19LoginLab.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\1-22-19LoginLab\1-22-19LoginLab\bin\Debug\1-22-19LoginLab.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-22-19LoginLab\1-22-19LoginLab\bin\Debug\1-22-19LoginLab.pdb
+c:\users\jc\documents\visual studio 2017\Projects\1-22-19LoginLab\1-22-19LoginLab\obj\Debug\1-22-19LoginLab.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2017\Projects\1-22-19LoginLab\1-22-19LoginLab\obj\Debug\1-22-19LoginLab.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-22-19LoginLab\1-22-19LoginLab\obj\Debug\1-22-19LoginLab.pdb
